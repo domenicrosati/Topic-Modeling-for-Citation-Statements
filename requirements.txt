@@ -1,0 +1,8 @@
+jupyter
+gensim
+scispacy
+pandas
+bs4
+transformers
+contextualized_topic_models
+pyLDAvis
